@@ -56,14 +56,6 @@
 
 // // ------------------------------------No4------------------------------------------------
 // Використовуючи for of  та for in  виведіть занчення з обєктів які знаходяться в масиві
-// const students = [
-//     { name: 'Alice', age: 20, grade: 'A' },
-//     { name: 'Bob', age: 22, grade: 'B' },
-//     { name: 'Charlie', age: 21, grade: 'C' }
-// ];
-// for(let key of students){
-//     console.log(`${key} : ${students[key]}`);
-// }
 
 // const students = [
 //     { name: 'Alice', age: 20, grade: 'A' },
@@ -87,7 +79,7 @@
 // Завдання 1: Створіть масив чисел і використайте метод map, щоб створити новий масив, який містить квадрати кожного числа.
 
 // let firstArr = [2,4,6,8,10];
-// let secondArr = firstArr.map((value) => value*value);
+// let secondArr = firstArr.map(value => value*value);
 // console.log(secondArr);
 
 
